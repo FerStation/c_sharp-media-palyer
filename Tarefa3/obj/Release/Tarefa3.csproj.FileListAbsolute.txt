@@ -1,0 +1,15 @@
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\bin\Release\Tarefa3.exe.config
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Interop.WMPLib.dll
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.csproj.ResolveComReference.cache
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\bin\Release\Tarefa3.exe
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\bin\Release\Tarefa3.pdb
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\bin\Release\Interop.WMPLib.dll
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.Form1.resources
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.Gerenciar.resources
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.Properties.Resources.resources
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.csproj.GenerateResource.Cache
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.exe
+C:\Users\Fernando\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\obj\Release\Tarefa3.pdb
